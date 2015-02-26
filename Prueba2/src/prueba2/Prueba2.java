@@ -15,7 +15,15 @@ public class Prueba2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
         System.out.println("Holaaaaaaa");
+         System.out.println("Holaaaaaaa");
+        
+        
+    }
+    
+    public static int sum (int x, int y ){
+        return x+y;
     }
     
 }
