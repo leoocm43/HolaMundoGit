@@ -26,4 +26,7 @@ public class Prueba2 {
         return x+y;
     }
     
+    public void Saludo(){
+        System.out.println("Hola2");
+    }
 }
